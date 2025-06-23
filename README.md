@@ -1,3 +1,10 @@
+<picture>
+  <style align="center" />
+  <source media="(prefers-color-scheme: dark)" srcset="pixel_art-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="pixel_art-light.svg" />
+  <img alt="pixel_art" src="pixel_art.svg" width="1000" />
+</picture><br/><br/>
+
 # (EN/International) GitHub Contribution Pixel Art Animator 🎨
 
 ## 🧠 Description
